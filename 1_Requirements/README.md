@@ -121,8 +121,4 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 	</table>
 </body>
 </html>
-
-
-
-
 * This folder contains documents detailing requirements with respect to the project.
