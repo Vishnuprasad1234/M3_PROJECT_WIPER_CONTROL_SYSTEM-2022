@@ -7,19 +7,16 @@ Vehicle windshield wipers play a important role during extreme weather condition
 * Two wipers and theis respecive arms
 * A mechanism
 
-
 The concept of this proposed wiper system is similar to that of all the other exesting wiper systems. A wiper normally consists of metal arm, one end pivots and the other end has a long rubber blade-attached to it. The purpose of the project is to design the windshield wiper control system for the safetiness of the people who drive heavy automobiles and domestic four-wheeler vehicles.
 
 <h1>RESEARCH PROGRESS:</h1>
 
 The automated Wiper system is used to detect rainfall and activate the wiper system automatically without the drivers inuput contol
 
-
 <h1>KEY TERMS:</h1>
 
 * STM32 Discovery Board
 * Microcontroller
-* Wiper Blade
 
 <h1>BASIC REQUIREMENTS:</h1>
 
@@ -37,22 +34,15 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <h2>WHEN:</h2>
 
-
 <h2>WHERE:</h2>
-
 
 <h2>WHO:</h2>
 
-
-
 <h2>HOW:</h2>
-
-
 
 <h2>SWOT ANALYSIS:</h2>
 
 ![swot](https://user-images.githubusercontent.com/101571637/167284529-6a3c261c-0a76-415f-9cc7-8f5a1e899f2f.png)
-
 
 <h2>HIGH LEVEL REQUIREMENTS:</h2>
 
@@ -94,8 +84,6 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 
 <h2>LOW LEVEL REQUIREMENTS:</h2>
-
-
 </head>
 <body>
 	<table>
@@ -147,7 +135,6 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <h2>HIGH LEVEL TEST PLAN:</h2>
 
-
 <body>
 	<table>
 		<thead>
@@ -178,11 +165,6 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 	</table>
 </body>
 </html>
-
-
-
-
-
 
 <h2>LOW LEVEL TEST PLAN:</h2>
 
@@ -225,7 +207,6 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 * Ignition mode and Car in ON
 
 <img width="646" alt="pressed once for 2 sec" src="https://user-images.githubusercontent.com/101571637/168274481-bfc513bf-6374-4559-b423-9f6fb0c7d050.PNG">
-
 
 <H2>2. EXECUTION WHEN BUTTON IS PRESSED ONCE AGAIN FOR 2 SECONDS:</H2>
 
