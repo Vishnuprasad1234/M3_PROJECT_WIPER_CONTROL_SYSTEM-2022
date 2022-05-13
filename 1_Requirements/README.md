@@ -10,11 +10,7 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <h2>WHAT:</h2>
 
-* The windshield wiper sontrol system consists of wipers and wiper arms
-
 <h2>WHEN:</h2>
-
-* It can be used when there is rainfall, cleaning the winshield after a long time, dusty conditions etc.
 
 <h2>WHERE:</h2>
 
