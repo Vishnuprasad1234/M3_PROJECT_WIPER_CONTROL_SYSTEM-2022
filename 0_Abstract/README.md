@@ -19,5 +19,3 @@ The automated Wiper system is used to detect rainfall and activate the wiper sys
 3.  Electric Motor
 4.  Wiper arm
 5.  Wiper Blade
-
-
