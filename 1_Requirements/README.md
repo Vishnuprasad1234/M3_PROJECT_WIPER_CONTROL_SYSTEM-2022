@@ -61,8 +61,6 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 </html>
 
 <h2>LOW LEVEL REQUIREMENTS:</h2>
-
-
 </head>
 <body>
 	<table>
