@@ -2,7 +2,6 @@
 
 <h2>HIGH LEVEL TEST PLAN:</h2>
 
-
 <body>
 	<table>
 		<thead>
@@ -67,4 +66,4 @@
 </body>
 </html>
 
-* This folder contains the necessary test cases for this project.
+
