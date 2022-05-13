@@ -1,6 +1,6 @@
 <H1>TEST PLAN:</H1>
 
-* These are the necessary test plans for implementing this project.
+
 
 <h2>HIGH LEVEL TEST PLAN:</h2>
 
