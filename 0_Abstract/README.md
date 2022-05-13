@@ -8,19 +8,16 @@ Vehicle windshield wipers play a important role during extreme weather condition
 
 The concept of this proposed wiper system is similar to that of all the other exesting wiper systems. A wiper normally consists of metal arm, one end pivots and the other end has a long rubber blade-attached to it. The purpose of the project is to design the windshield wiper control system for the safetiness of the people who drive heavy automobiles and domestic four-wheeler vehicles.
 
-
 <h1>RESEARCH PROGRESS:</h1>
 
 The automated Wiper system is used to detect rainfall and activate the wiper system automatically without the drivers inuput contol
 
-
 <h1>KEY TERMS:</h1>
 
 1.  STM32 Discovery Board
-2. Microcontroller
-3. Electric Motor
-4. Wiper arm
+2.  Microcontroller
+3.  Electric Motor
+4.  Wiper arm
 5.  Wiper Blade
 
 
-* This folder contains the abstract, Research progress for the implementation of this project.
