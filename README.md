@@ -10,3 +10,4 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
    <img src="https://api.codiga.io/public/badge/user/github/Vishnuprasad1234?style=light" alt="codiga badge" />
 </a>
 
+[![cppcheck-action](https://github.com/Vishnuprasad1234/M3_PROJECT_WIPER_CONTROL_SYSTEM-2022/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Vishnuprasad1234/M3_PROJECT_WIPER_CONTROL_SYSTEM-2022/actions/workflows/cpp%20check.yml)
