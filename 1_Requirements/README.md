@@ -18,8 +18,6 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <h2>WHERE:</h2>
 
-* It is used to remove water, dirt, dust, smoke, fog, mist etc.
-
 <h2>WHO:</h2>
 
 * It is used by the drivers of heavy automobiles and domestic 4-wheelers.
