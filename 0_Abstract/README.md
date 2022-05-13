@@ -20,7 +20,7 @@ The automated Wiper system is used to detect rainfall and activate the wiper sys
 2. Microcontroller
 3. Electric Motor
 4. Wiper arm
-5. Wiper Blade
+5.  Wiper Blade
 
 
 * This folder contains the abstract, Research progress for the implementation of this project.
