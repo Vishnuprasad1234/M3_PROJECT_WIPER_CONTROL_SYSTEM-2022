@@ -6,9 +6,7 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <h2>OBJECTIVES:</h2>
 
- 
-
-<h1>4W's AND 1H:</h1>
+ <h1>4W's AND 1H:</h1>
 
 <h2>WHAT:</h2>
 
