@@ -36,11 +36,6 @@
 </body>
 </html>
 
-
-
-
-
-
 <h2>LOW LEVEL TEST PLAN:</h2>
 
 <body>
