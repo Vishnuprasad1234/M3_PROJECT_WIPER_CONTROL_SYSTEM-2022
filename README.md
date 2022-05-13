@@ -10,6 +10,7 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
    <img src="https://api.codiga.io/public/badge/user/github/Vishnuprasad1234?style=light" alt="codiga badge" />
 </a>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/15f6d2f72df44be7973656f48f62be4d)](https://app.codacy.com/gh/Vishnuprasad1234/M3_PROJECT_WIPER_CONTROL_SYSTEM-2022?utm_source=github.com&utm_medium=referral&utm_content=Vishnuprasad1234/M3_PROJECT_WIPER_CONTROL_SYSTEM-2022&utm_campaign=Badge_Grade_Settings)
 [![cppcheck-action](https://github.com/Vishnuprasad1234/M3_PROJECT_WIPER_CONTROL_SYSTEM-2022/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Vishnuprasad1234/M3_PROJECT_WIPER_CONTROL_SYSTEM-2022/actions/workflows/cpp%20check.yml)
 
 [![Valgrind](https://github.com/Vishnuprasad1234/M3_PROJECT_WIPER_CONTROL_SYSTEM-2022/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Vishnuprasad1234/M3_PROJECT_WIPER_CONTROL_SYSTEM-2022/actions/workflows/Valgrind.yml)
