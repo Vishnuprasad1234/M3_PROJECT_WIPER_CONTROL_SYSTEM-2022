@@ -1,7 +1,5 @@
 <H1>TEST PLAN:</H1>
 
-
-
 <h2>HIGH LEVEL TEST PLAN:</h2>
 
 
