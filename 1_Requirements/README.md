@@ -8,7 +8,7 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 * To design and implement a new mechanism to cover the area of automobile's windshield.
 * The purpose of the wiper system is to clean the windshield effectively to provide clear vision for the driver.
-* The system contains a microcontroller that takes input signals from the sensor and controls the operation.
+*   The system contains a microcontroller that takes input signals from the sensor and controls the operation.
 
 <h1>4W's AND 1H:</h1>
 
