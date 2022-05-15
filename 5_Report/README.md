@@ -4,8 +4,8 @@
 
 Vehicle windshield wipers play a important role during extreme weather conditions by wiping the rain water, dust, fog, mist continuously over the course of time and they help us give a clear vision to the driver. Wipers are designed and made to clear the unwanted dust, water etc. from a windscreen. It is Prime duty to improve the safety facilities in all automobiles and vehicles. The system is used to activate the Wipers manually. Due to this issue many engineers and designers and developers have contributed to the research and developement of Automatic Windshield Wiper Functionality in automobiles. The Windshield Wiper Functionality of domestic cars primarily consists of three systems,
 
-*   Two wipers and theis respecive arms
-*   A mechanism
+  Two wipers and theis respecive arms
+  A mechanism
 
 The concept of this proposed wiper system is similar to that of all the other exesting wiper systems. A wiper normally consists of metal arm, one end pivots and the other end has a long rubber blade-attached to it. The purpose of the project is to design the windshield wiper control system for the safetiness of the people who drive heavy automobiles and domestic four-wheeler vehicles.
 
@@ -15,8 +15,8 @@ The automated Wiper system is used to detect rainfall and activate the wiper sys
 
 <h1>KEY TERMS:</h1>
 
-*   STM32 Discovery Board
-*   Microcontroller
+  STM32 Discovery Board
+  Microcontroller
 
 <h1>BASIC REQUIREMENTS:</h1>
 
@@ -30,7 +30,7 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <h2>WHAT:</h2>
 
-*   The windshield wiper sontrol system consists of wipers and wiper arms
+   The windshield wiper sontrol system consists of wipers and wiper arms
 
 <h2>WHEN:</h2>
 
@@ -200,23 +200,23 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 
 <H2>1. EXECUTION WHEN BUTTON IS PRESSED ONCE FOR 2 SECONDS:</H2>
 
-* Ignition mode and Car in ON
+ Ignition mode and Car in ON
 
 <img width="646" alt="pressed once for 2 sec" src="https://user-images.githubusercontent.com/101571637/168274481-bfc513bf-6374-4559-b423-9f6fb0c7d050.PNG">
 
 <H2>2. EXECUTION WHEN BUTTON IS PRESSED ONCE AGAIN FOR 2 SECONDS:</H2>
 
-* ACC mode and Car is OFF
+ ACC mode and Car is OFF
 
 <img width="625" alt="once again for 2 seconds" src="https://user-images.githubusercontent.com/101571637/168274842-ba783ee7-8224-4347-b81e-79bd894f1697.PNG">
 
 <H2>3. EXECUTION WHEN BUTTON IS PRESSED FOR SECOND TIME:</H2>
 
-* Turning ON the wiper
+ Turning ON the wiper
 
 <img width="881" alt="Pressed for 2nd time" src="https://user-images.githubusercontent.com/101571637/168275072-0b2f84e9-75f2-4803-8ae4-9f6f778fe72f.PNG">
 
 <H2>4. EXECUTION WHEN BUTTON IS PRESSED FOR THIRD TIME:</H2>
 
-* Turning OFF the wiper
+ Turning OFF the wiper
 <img width="940" alt="pressed with third time" src="https://user-images.githubusercontent.com/101571637/168276097-0766399d-37ec-4bdd-851c-2799d9604d1e.PNG">
